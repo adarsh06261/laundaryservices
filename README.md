@@ -1,9 +1,6 @@
 # Laundry Management System
-## video
-Project Explanation link = https://www.youtube.com/watch?v=qHeghgtr-QI
 
-## Deploy
-Project deployed link = https://laundry-ms-cs2812.vercel.app/
+
 ## Registration
 ![L1](https://github.com/cs2812/laundry_management/assets/101570543/dc726c70-718c-480b-beed-fc5b4c46ff86)
 ## Login 
